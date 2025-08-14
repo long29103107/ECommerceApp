@@ -1,4 +1,5 @@
 ﻿using ECommerceApp.Domain.Entities;
+using ECommerceApp.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

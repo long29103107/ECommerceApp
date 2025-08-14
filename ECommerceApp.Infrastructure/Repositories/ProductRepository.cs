@@ -1,4 +1,7 @@
-﻿using ECommerceApp.Infrastructure.Data;
+﻿using ECommerceApp.Domain.Entities;
+using ECommerceApp.Infrastructure.Data;
+using ECommerceApp.Infrastructure.Specifications;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
 namespace ECommerceApp.Infrastructure.Repositories;
